@@ -6,6 +6,8 @@
 
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5S225PTME)
+
 ## The Problem
 
 AI agents are executing on-chain transactions at increasing scale. Every major framework — AgentKit, ElizaOS, Olas, Virtuals, Brian AI — gives agents wallet access. None of them answer a fundamental question: **what happens when the agent overspends, calls the wrong contract, or acts outside its mandate?**
